@@ -19,11 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   this is very unremarkable
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://unremarkable.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: unremarkable-io
-github_username:  unremarkable_io
+twitter_username: lukaskuzmiak
+twitter_username2: me_sh311
 
 # File management
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "vendor"]
 
 # Build settings
 markdown: kramdown
